@@ -11,7 +11,7 @@
     <View>
       <WinId>38003</WinId>
       <ViewName>Registers</ViewName>
-      <TableColWidths>115 266</TableColWidths>
+      <TableColWidths>115 202</TableColWidths>
     </View>
     <View>
       <WinId>346</WinId>
@@ -68,11 +68,11 @@
 
   <WindowSettings>
     <LogicAnalizer>
-      <ShowLACursor>0</ShowLACursor>
-      <ShowSignalInfo>0</ShowSignalInfo>
+      <ShowLACursor>1</ShowLACursor>
+      <ShowSignalInfo>1</ShowSignalInfo>
       <ShowCycles>0</ShowCycles>
-      <LeftSideBarSize>50</LeftSideBarSize>
-      <TimeBaseIndex>16</TimeBaseIndex>
+      <LeftSideBarSize>0</LeftSideBarSize>
+      <TimeBaseIndex>-1</TimeBaseIndex>
     </LogicAnalizer>
   </WindowSettings>
 
@@ -91,10 +91,10 @@
         <yPos>-1</yPos>
       </MaxPosition>
       <NormalPosition>
-        <Top>305</Top>
-        <Left>75</Left>
-        <Right>1100</Right>
-        <Bottom>938</Bottom>
+        <Top>146</Top>
+        <Left>1747</Left>
+        <Right>2772</Right>
+        <Bottom>779</Bottom>
       </NormalPosition>
     </WindowPosition>
     <MDIClientArea>

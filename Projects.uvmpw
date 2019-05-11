@@ -10,6 +10,10 @@
   <project>
     <PathAndName>.\STM32_SPI_accelerometer\MDK-ARM\SPI_Gyro.uvprojx</PathAndName>
     <NodeIsActive>1</NodeIsActive>
+  </project>
+
+  <project>
+    <PathAndName>.\STM32_Button_int\Button_int\MDK-ARM\Button_int.uvprojx</PathAndName>
     <NodeIsExpanded>1</NodeIsExpanded>
   </project>
 
